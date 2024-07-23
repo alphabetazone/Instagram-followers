@@ -1,0 +1,37 @@
+alphabetazone-social-marketing/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── src/
+│   ├── instagram/
+│   │   ├── buy_followers.py
+│   │   ├── buy_likes.py
+│   ├── youtube/
+│   │   ├── buy_views.py
+│   │   ├── buy_subscribers.py
+│   ├── tiktok/
+│   │   ├── buy_followers.py
+│   │   ├── buy_likes.py
+│   └── ...
+├── docs/
+│   ├── instagram_guide.md
+│   ├── youtube_guide.md
+│   ├── tiktok_guide.md
+│   └── ...
+├── config/
+│   ├── instagram_config.yaml
+│   ├── youtube_config.yaml
+│   ├── tiktok_config.yaml
+│   └── ...
+└── CONTRIBUTING.md
+
+Alphabetazone Social Marketing
+
+Welcome to the Alphabetazone Social Marketing repository. This repository contains tools and guidelines to help you boost your social media presence using services from Alphabetazone.
+
+Overview
+Alphabetazone offers a wide range of services to enhance your online presence across various social media platforms, including Instagram, YouTube, TikTok, Twitter, and more.
+
+Services
+-Buy Instagram Followers
+https://alphabetazone.co
